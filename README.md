@@ -15,8 +15,7 @@ My name is Coen Schutte and I'm a CSE student at TU Delft. You can find me on [!
 
 <a href="https://github.com/CoenSchutte/assembly-brainfuck-interpreter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoenSchutte&repo=assembly-brainfuck-interpreter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
+</a>    
 
 <a href="https://github.com/CoenSchutte/extremely-simple-snake-with-bugs-or-as-i-call-it-opportunities">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoenSchutte&repo=extremely-simple-snake-with-bugs-or-as-i-call-it-opportunities&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -37,7 +36,6 @@ My name is Coen Schutte and I'm a CSE student at TU Delft. You can find me on [!
 [3.2]: https://raw.githubusercontent.com/CoenSchutte/CoenSchutte/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
-<!-- links to your social media accounts -->
 
 [1]: https://twitter.com/CoenSchutte
 [2]: https://github.com/CoenSchutte
