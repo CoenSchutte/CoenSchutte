@@ -9,14 +9,15 @@ My name is Coen Schutte and I'm a CSE student at TU Delft. You can find me on [!
 <a href="https://github.com/CoenSchutte/CoenSchutte">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoenSchutte&hide=brainfuck,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<br>
 <a href="https://github.com/CoenSchutte/CoenSchutte">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CoenSchutte&hide=stars,contribs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Coen's GitHub Stats" />
 </a>
-
+<br>
 <a href="https://github.com/CoenSchutte/assembly-brainfuck-interpreter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoenSchutte&repo=assembly-brainfuck-interpreter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-
+<br>
 <a href="https://github.com/CoenSchutte/extremely-simple-snake-with-bugs-or-as-i-call-it-opportunities">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoenSchutte&repo=extremely-simple-snake-with-bugs-or-as-i-call-it-opportunities&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
