@@ -40,7 +40,7 @@ My name is Coen Schutte and I'm a CSE student at TU Delft. You can find me on [!
 
 [1]: https://twitter.com/CoenSchutte
 [2]: https://github.com/CoenSchutte
-[3]: https://www.linkedin.com/in/coen-schutte-a56960183/
+[3]: https://www.linkedin.com/in/coen-schutte/
 
 
 <!-- Resources -->
