@@ -1,4 +1,4 @@
-### Hi! <img src="https://github.com/CoenSchutte/CoenSchutte/blob/master/Hi.gif" width="29px">
+### Hi!
 
 My name is Coen Schutte and I'm a CSE student at TU Delft. You can find me on [![LinkedIn][3.2]][3]. I tend to come up with names that are way too long for my projects.
 
