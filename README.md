@@ -1,12 +1,10 @@
-### Hello World <img src="https://github.com/CoenSchutte/CoenSchutte/blob/master/Hi.gif" width="29px">
+### Hi! <img src="https://github.com/CoenSchutte/CoenSchutte/blob/master/Hi.gif" width="29px">
 
-My name is Coen Schutte and I'm a CSE student at TU Delft. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. I tend to come up with names that are way too long for my projects.
+My name is Coen Schutte and I'm a CSE student at TU Delft. You can find me on [![LinkedIn][3.2]][3]. I tend to come up with names that are way too long for my projects.
 
 
 
   
-
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
