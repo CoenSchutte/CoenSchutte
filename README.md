@@ -1,12 +1,10 @@
 ### Hi! 👋
 
-My name is Coen Schutte and I'm a CSE student at TU Delft. You can find me on [![LinkedIn][3.2]][3]. I tend to come up with names that are way too long for my projects.
+My name is Coen Schutte and I'm a developer from The Netherlands. You can find me on [![LinkedIn][3.2]][3]. I tend to come up with names that are way too long for my projects.
 
 
 
   
-<!-- links to social media icons -->
-
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
